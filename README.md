@@ -1,18 +1,18 @@
 # Task
 
-Create a new project using create-react-app with TypeScript. (Done)
+Create a new project using create-react-app with TypeScript.
 
-Create design based on the above design link.(Done)
+Create design based on the above design link.
 
-As per the requirement you are required to use TypeScript.(Done)
+As per the requirement you are required to use TypeScript.
 
-Below are the api and base url that can be used to render movies list.(Done)
+Below are the api and base url that can be used to render movies list.
 
-Search api integration is optional but design should be there.(Done)
+Search api integration is optional but design should be there.
 
-Trending movies and TV shows has a single api which returns both movies and(Done)
+Trending movies and TV shows has a single api which returns both movies and
 
-TV shows list, you need to filter it by using “media_type” (included in response).(Done)
+TV shows list, you need to filter it by using “media_type” (included in response).
 
 ## Getting Started with Create React App
 
